@@ -1,6 +1,6 @@
 # MASKED-FACE-RECOGNITION-OR-PERIOCULAR-ARTIFICIAL-INTELLIGENCE-APP
 
-Author: God Bennett
+Author: God Bennett ([Name changed from Jordan to God.](https://www.researchgate.net/publication/342328687_Why_I_an_atheist_legally_changed_my_name_to_God))
 
 I could not find any artificial intelligence application that did masked face recognition well, so I decided to create this solution.
 
@@ -9,7 +9,7 @@ This artificial intelligence project is a masked face recognition (or periocular
 Apart from not running due to artificial intelligence related errors (whose fixes I addressed in section "C" below), the original repository did not do masked face recognition, as it only did recognition of faces with masks, and the original repository also did not implement a user interface. My project here resolves all of the aforementioned issues.
 
 
-![Alt Text](https://github.com/JordanMicahBennett/MASKED-FACE-RECOGNITION-OR-PERIOCULAR-ARTIFICIAL-INTELLIGENCE-APP/blob/main/God's%20Masked%20Face%20Recognition%20Project%20Preview.gif =1920x1080)
+![test](https://github.com/JordanMicahBennett/MASKED-FACE-RECOGNITION-OR-PERIOCULAR-ARTIFICIAL-INTELLIGENCE-APP/blob/main/God's%20Masked%20Face%20Recognition%20Project%20Preview.gif =1920x1080)
 
 
 # [A] Instructions_User
