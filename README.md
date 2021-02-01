@@ -4,9 +4,11 @@ Author: God Bennett ([Name changed from Jordan to God.](https://www.researchgate
 
 I could not find any artificial intelligence application that did masked face recognition well, so I decided to create this solution.
 
-This artificial intelligence project is a masked face recognition (or periocular recognition) artificial intelligence application, built atop this original repository, that was also fixed to remove crucial errors. 
+This artificial intelligence project is a masked face recognition (or periocular recognition) artificial intelligence application, built atop [this original repository](https://github.com/aakashjhawar/face-recognition-using-deep-learning), that does not do masked face recognition, as it only does recognition of faces with masks, and also, I added some neccessary fixes as the original repository did not run without said fixes.
 
-Apart from not running due to artificial intelligence related errors (whose fixes I addressed in section "C" below), the original repository did not do masked face recognition, as it only did recognition of faces with masks, and the original repository also did not implement a user interface. My project here resolves all of the aforementioned issues.
+Apart from not running due to artificial intelligence related errors (whose fixes I addressed in section "C" below), also did not implement a graphical user interface. 
+
+My project here resolves all of the aforementioned issues.
 
 <img src="https://github.com/JordanMicahBennett/MASKED-FACE-RECOGNITION-OR-PERIOCULAR-ARTIFICIAL-INTELLIGENCE-APP/blob/main/God's%20Masked%20Face%20Recognition%20Project%20Preview.gif">
 
