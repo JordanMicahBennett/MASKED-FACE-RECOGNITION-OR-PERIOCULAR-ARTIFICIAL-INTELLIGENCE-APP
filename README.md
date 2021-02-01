@@ -2,7 +2,7 @@
 
 Author: God Bennett ([Name changed from Jordan to God.](https://www.researchgate.net/publication/342328687_Why_I_an_atheist_legally_changed_my_name_to_God))
 
-I could not find any artificial intelligence application that did masked face recognition well, so I decided to create this solution.
+I could not find any artificial intelligence application that did masked face recognition well, so I decided to create an ai based solution.
 
 This artificial intelligence project is a masked face recognition (or periocular recognition) artificial intelligence application, built atop [this original repository](https://github.com/aakashjhawar/face-recognition-using-deep-learning), that does not do masked face recognition, as it only does recognition of faces with masks, and also, I added some neccessary fixes as the original repository did not run without said fixes.
 
