@@ -1,6 +1,6 @@
 # MASKED-FACE-RECOGNITION-OR-PERIOCULAR-ARTIFICIAL-INTELLIGENCE-APP
 
-Author: God Bennett ([Name changed from Jordan to God.](https://www.researchgate.net/publication/342328687_Why_I_an_atheist_legally_changed_my_name_to_God))
+Author: God Bennett ([My legal name was changed from Jordan to God.](https://www.researchgate.net/publication/342328687_Why_I_an_atheist_legally_changed_my_name_to_God))
 
 I could not find any artificial intelligence application that did masked face recognition well, so I decided to create an ai based solution.
 
