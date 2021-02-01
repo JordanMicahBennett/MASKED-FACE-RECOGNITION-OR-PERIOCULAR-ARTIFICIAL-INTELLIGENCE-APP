@@ -30,13 +30,14 @@ Apart from not running due to artificial intelligence related errors (whose fixe
 # [A] Instructions_Developer
 
 i. Original repository, that has errors addressed by myself in (ii) below: 
+
 https://github.com/aakashjhawar/face-recognition-using-deep-learning
 
 ii. God's fixed version of the base code (that didn't do masked face recognition or had a gui), is documented in section C:  "God's fixes/modifications/additions".
 
-    * This includes modfied versions of recognize_video.py, train_model.py without which several errors would occur.
+* This includes modfied versions of recognize_video.py, train_model.py without which several errors would occur.
     
-	* I also included new files for a simple gui, as seen in "recognize_video_v3_ui.py" etc.
+* I also included new files for a simple gui, as seen in "recognize_video_v3_ui.py" etc.
 
 iii. Follow my installation modules guide [B], and use my files from (ii) above in this repository (ii) above because the default code (i) failed to run without fixes in section [C] as seen in the files in this repository.
 
@@ -44,7 +45,7 @@ Note: ~50 masked and ~20 unmasked images were used for training for the "God" id
 Usage: Ensure that custom training data is different from inference samples.
 
 
-===[B] God's installation modules
+# [B] God's installation modules
 Windows 
 
 python 3.5 base (as advised by default repo)
@@ -56,9 +57,13 @@ scipy 1.0.0 (extracted by God from scikit_learn webpage suggested version minimu
 numpy 1.16.4 (installed by aiming to resolve no numpy.testing.decorators error)
 
 * If you want to use examples in /GOD DATA + COMMANDS:
+
 	* Download [Masked_Face_Recognition_Dataset_by_God.zip](https://drive.google.com/file/d/1BV-eArBzxDJqAO1YDzgu-1ZPrxkqgZJb/view?usp=sharing).
+	
     * Copy image contents of Masked_Face_Recognition_Dataset_by_God.zip folder, to "dataset" folder this repository's directory.
+    
     * Change all Python35 path locations in all batch files to yours.
+    
     * Change all .py locations in all batch files to your specific locations.
 
 
@@ -68,13 +73,16 @@ numpy 1.16.4 (installed by aiming to resolve no numpy.testing.decorators error)
 Notes about God's repairs to default repo:
 
 --machine learning fixes:
+
 1. Pickle errors removed from recognizer_image.py from default py files.
 2. SVC Load errors from default py files fixed by dumping sklearn model in train_model.py, and loading same model in recognize_image.py
 3. Code added to trigger processing of video files instead of live stream.
 4. Code added to stamped picture of recognized suspect, in new overview_recognized folder.
 
 --basic fixes:
+
 5. Basic python print bracket errors removed from default py files.
+
 6. Tab errors removed from default py files.
 
 
