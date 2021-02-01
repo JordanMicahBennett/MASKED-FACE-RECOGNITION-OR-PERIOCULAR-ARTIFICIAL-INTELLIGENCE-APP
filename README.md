@@ -12,7 +12,7 @@ Apart from not running due to artificial intelligence related errors (whose fixe
 ![Alt Text](https://github.com/JordanMicahBennett/MASKED-FACE-RECOGNITION-OR-PERIOCULAR-ARTIFICIAL-INTELLIGENCE-APP/blob/main/God's%20Masked%20Face%20Recognition%20Project%20Preview.gif?raw=true)
 
 
-===[A] Instructions_User
+# [A] Instructions_User
 
 1. Download [the related face recognition model](https://drive.google.com/file/d/18EwXB4CQi6zvjndc5GU2JIEaZYERb7io/view?usp=sharing), and copy the .t7 file to this repository's directory on your computer.
 
@@ -27,13 +27,15 @@ Apart from not running due to artificial intelligence related errors (whose fixe
 
 
 
-===[A] Instructions_Developer
+# [A] Instructions_Developer
 
 i. Original repository, that has errors addressed by myself in (ii) below: 
 https://github.com/aakashjhawar/face-recognition-using-deep-learning
 
 ii. God's fixed version of the base code (that didn't do masked face recognition or had a gui), is documented in section C:  "God's fixes/modifications/additions".
+
     * This includes modfied versions of recognize_video.py, train_model.py without which several errors would occur.
+    
 	* I also included new files for a simple gui, as seen in "recognize_video_v3_ui.py" etc.
 
 iii. Follow my installation modules guide [B], and use my files from (ii) above in this repository (ii) above because the default code (i) failed to run without fixes in section [C] as seen in the files in this repository.
@@ -62,7 +64,7 @@ numpy 1.16.4 (installed by aiming to resolve no numpy.testing.decorators error)
 
 
 
-===[C] God's fixes/modifications/additions
+# [C] God's fixes/modifications/additions
 Notes about God's repairs to default repo:
 
 --machine learning fixes:
@@ -77,7 +79,7 @@ Notes about God's repairs to default repo:
 
 
 
-===[D] God's guidelines for setting up training data (for both masked and unmasked recognition):
+# [D] God's guidelines for setting up training data (for both masked and unmasked recognition):
 
 1.a Take a 10 second clip of person with face masked. (Using [ii] from Suggested Tools below, if applicable)
 
