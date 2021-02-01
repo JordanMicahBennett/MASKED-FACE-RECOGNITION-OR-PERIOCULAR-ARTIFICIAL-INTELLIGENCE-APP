@@ -8,8 +8,9 @@ This artificial intelligence project is a masked face recognition (or periocular
 
 Apart from not running due to artificial intelligence related errors (whose fixes I addressed in section "C" below), the original repository did not do masked face recognition, as it only did recognition of faces with masks, and the original repository also did not implement a user interface. My project here resolves all of the aforementioned issues.
 
+<img src="https://github.com/JordanMicahBennett/MASKED-FACE-RECOGNITION-OR-PERIOCULAR-ARTIFICIAL-INTELLIGENCE-APP/blob/main/God's%20Masked%20Face%20Recognition%20Project%20Preview.gif">
 
-![test](https://github.com/JordanMicahBennett/MASKED-FACE-RECOGNITION-OR-PERIOCULAR-ARTIFICIAL-INTELLIGENCE-APP/blob/main/God's%20Masked%20Face%20Recognition%20Project%20Preview.gif =1920x1080)
+![Alternate Text](https://github.com/JordanMicahBennett/MASKED-FACE-RECOGNITION-OR-PERIOCULAR-ARTIFICIAL-INTELLIGENCE-APP/blob/main/God's%20Masked%20Face%20Recognition%20Project%20Preview.gif =1920x1080)
 
 
 # [A] Instructions_User
