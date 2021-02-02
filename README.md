@@ -15,6 +15,9 @@ My project here resolves all of the aforementioned issues and constraints.
 
 <img src="https://github.com/JordanMicahBennett/MASKED-FACE-RECOGNITION-OR-PERIOCULAR-ARTIFICIAL-INTELLIGENCE-APP/blob/main/God's%20Masked%20Face%20Recognition%20Project%20Preview.gif">
 
+# Example use case
+Identify previously flagged people in a video in an ATM wearing a mask.
+
 
 # [A] Instructions_User
 
