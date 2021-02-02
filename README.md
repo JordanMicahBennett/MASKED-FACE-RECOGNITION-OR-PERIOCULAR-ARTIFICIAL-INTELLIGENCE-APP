@@ -65,7 +65,7 @@ numpy 1.16.4 (installed by aiming to resolve no numpy.testing.decorators error)
 
 	* Download [Masked_Face_Recognition_Dataset_by_God.zip](https://drive.google.com/file/d/1BV-eArBzxDJqAO1YDzgu-1ZPrxkqgZJb/view?usp=sharing).
 	
-    * Copy image contents of Masked_Face_Recognition_Dataset_by_God.zip folder, to "dataset" folder this repository's directory.
+    * Copy image contents of Masked_Face_Recognition_Dataset_by_God.zip folder, to "dataset" folder in this repository's directory.
     
     * Change all Python35 path locations in all batch files to yours.
     
