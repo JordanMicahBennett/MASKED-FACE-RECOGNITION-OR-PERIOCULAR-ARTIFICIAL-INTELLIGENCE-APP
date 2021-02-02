@@ -7,9 +7,9 @@ I could not find any artificial intelligence application that did masked face re
 
 This artificial intelligence project is a masked face recognition (or periocular recognition) artificial intelligence application, built atop [this original repository](https://github.com/aakashjhawar/face-recognition-using-deep-learning), that does not do masked face recognition, as it only does recognition of faces without masks, and also, I added some neccessary fixes as the original repository did not run without said fixes.
 
-Apart from not running due to artificial intelligence related errors (whose fixes I addressed in section "C" below), also did not implement a graphical user interface. 
+Apart from not running due to artificial intelligence related errors (whose fixes I addressed in section "C" below), it also did not implement a graphical user interface. 
 
-My project here resolves all of the aforementioned issues.
+My project here resolves all of the aforementioned issues and constraints.
 
 <img src="https://github.com/JordanMicahBennett/MASKED-FACE-RECOGNITION-OR-PERIOCULAR-ARTIFICIAL-INTELLIGENCE-APP/blob/main/Preview%201_v2.png">
 
