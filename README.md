@@ -46,6 +46,7 @@ ii. God's fixed version of the base code (that didn't do masked face recognition
 iii. Follow my installation modules guide [B], and use my files from (ii) above in this repository (ii) above because the default code (i) failed to run without fixes in section [C] as seen in the files in this repository.
 
 Note: ~50 masked and ~20 unmasked images were used for training for the "God" identity.
+
 Usage: Ensure that custom training data is different from inference samples.
 
 
