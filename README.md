@@ -88,7 +88,7 @@ Notes about God's repairs to default repo:
 1. Pickle errors removed from recognizer_image.py from default py files.
 2. SVC Load errors from default py files fixed by dumping sklearn model in train_model.py, and loading same model in recognize_image.py
 3. Code added to trigger processing of video files instead of live stream.
-4. Code added to stamped picture of recognized suspect, in new overview_recognized folder.
+4. Code added to stamp picture of recognized suspect, in new overview_recognized folder.
 
 --basic fixes:
 
