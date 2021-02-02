@@ -121,6 +121,8 @@ ii. WebCam recorder: https://webcamera.io/
 	
 # Suggested Training Data
 
-See [the famous Masked Dataset paper](https://arxiv.org/abs/2003.09093), that unfortunately doesn't provide a solution/code, but it does provide a gigabytes of data for training. Neither of my solutions use this currently, and both could reasonably benefit from the aforementioned training set. There are also solutions for creating masked data available across the web.
+See [the famous Masked Dataset paper](https://arxiv.org/abs/2003.09093), that unfortunately doesn't provide a solution/code, but it does provide gigabytes of data for training. 
+
+Neither of my solutions use this currently, and both could reasonably benefit from the aforementioned training set. There are also solutions for creating masked data available across the web.
 	
 
