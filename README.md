@@ -11,6 +11,8 @@ Apart from not running due to artificial intelligence related errors (whose fixe
 
 My project here resolves all of the aforementioned issues.
 
+<img src="https://github.com/JordanMicahBennett/MASKED-FACE-RECOGNITION-OR-PERIOCULAR-ARTIFICIAL-INTELLIGENCE-APP/blob/main/masked_unmasked_face.png">
+
 <img src="https://github.com/JordanMicahBennett/MASKED-FACE-RECOGNITION-OR-PERIOCULAR-ARTIFICIAL-INTELLIGENCE-APP/blob/main/God's%20Masked%20Face%20Recognition%20Project%20Preview.gif">
 
 
