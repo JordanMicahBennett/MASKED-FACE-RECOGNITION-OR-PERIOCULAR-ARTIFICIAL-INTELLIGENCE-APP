@@ -103,6 +103,9 @@ Notes about God's repairs to default repo:
 
 Note, place all images taken from mp4 to image set conversion above, pertaining to one person, in the same person folder from [A].
 
+
 Suggested Tools:
+
 i. Mp4 to jpg collection (download resulting zip): https://ezgif.com/video-to-jpg
+
 ii. WebCam recorder: https://webcamera.io/
