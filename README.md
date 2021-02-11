@@ -1,5 +1,7 @@
 # MASKED-FACE-RECOGNITION-OR-PERIOCULAR-ARTIFICIAL-INTELLIGENCE-APP
 
+# WORLD'S FIRST OPEN SOURCE MASKED FACE *RECOGNITION* ARTIFICIAL INTELLIGENCE APP
+
 Author: God Bennett ([My legal name was changed from Jordan to God.](https://www.researchgate.net/publication/342328687_Why_I_an_atheist_legally_changed_my_name_to_God))
 
 I could not find any artificial intelligence application that did masked face recognition, so I had decided to create an ai based solution, last year in October 2020. The solution took about 5 hours to implement and now the code is available here.
